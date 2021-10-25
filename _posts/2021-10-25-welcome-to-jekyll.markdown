@@ -1,29 +1,92 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My Resume"
 date:   2021-10-25 17:23:52 -0500
-categories: jekyll update
+categories: First post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## <center>Michael Bathie </center>
 
-Jekyll requires blog post files to be named according to the following format:
+<center>michael.jbathie@gmail.com | 204-930-9877 | github.com/MichaelBathie | linkedin.com/in/michaelbathie</center>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Education
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<hr />
 
-Jekyll also offers powerful support for code snippets:
+<h3 style="display: inline;">University of Manitoba</h3>
+<div style="float: right;">Sept 2017 – Apr 2022 (est.)</div>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<h3>Bachelor of Computer Science</h3> 
+| Recent GPA (2 years): **4.22** | Cumulative GPA 3.64 |
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+• **Courses:** Java OOP, Operating Systems, Data Structures & Algorithms, Distributed Systems, Human Computer Interaction
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<h3 style="display: inline;">Awards & Scholarships:</h3> | **Valedictorian** | Leadership Award | UM Guertin Centennial Entrance Scholarship | Dr. Jack & Isabel Scurfield Memorial Scholarship |
+
+## Skills
+
+<hr />
+
+Languages: **Python**, **JavaScript**, TypeScript, Java, Kotlin, Ruby, C, C++
+
+Technologies: **React.js**, **Android Studio**, MongoDB, Node, Git, Docker
+
+## Projects
+
+<hr />
+
+<h3 style="display: inline;">SyncStream</h3>  
+<div style="float: right;">Jan 2021 – Apr 2021</div>	
+
+Full Stack Development – React.js, NodeJS, MongoDB, Express.js					     
+
+• Built UI components in React.js for login/register and landing page
+
+• Connected front-end with various APIs (Google maps, Spotify)
+
+• Login authentication and API routing to back-end
+
+<h3 style="display: inline;">Steam Data Mining</h3>  
+<div style="float: right;">Oct 2021 – TBD</div>
+
+Frequent Pattern Mining – Python							     
+
+• Mine player data to discover meaningful relationships
+
+• Integration with forceatlas2 for easily readable statistics
+
+• Multi-threading for API call/network optimization
+
+<h3 style="display: inline;">Caulking Website</h3>	
+<div style="float: right;">Nov 2021 – TBD</div>	
+
+Software Developer Contractor – React.js			     
+
+• Develop easily readable portfolio to increase customer flow
+
+<h3 style="display: inline;">FABRIK Inverse Kinematics</h3>  
+<div style="float: right;">Mar 2021 – Apr 2021</div>
+
+Joint Configuration Algorithm – Processing						     
+
+• Implementation of important problem in robotics
+
+• Compare and contrast complexity and efficiency with other real world methods
+
+## Work Experience
+
+<hr />
+
+<div>
+<h3 style="display: inline;">McDonald’s</h3>
+<div style="float: right;">Winnipeg, MB</div>
+</div>
+<div style="overflow: hidden;">
+<div style="float: left;">Front End Crew Member – Service Team</div>	
+<div style="display: inline; float: right;">Oct 2016 – Apr 2021</div>
+</div>
+
+• Used the experience to improve interpersonal skills
+
+• Completing tasks under tight time constraints
+
+• Communication with peers to improve work flow
