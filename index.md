@@ -1,6 +1,6 @@
 ## <center>Michael Bathie </center>
 
-<center>michael.jbathie@gmail.com | 204-930-9877 | github.com/MichaelBathie | linkedin.com/in/michaelbathie</center>
+<center>michael.jbathie@gmail.com | 204-930-9877 | 900 Renfew St. Winnipeg, MB |github.com/MichaelBathie | linkedin.com/in/michaelbathie</center>
 
 ## Education
 
