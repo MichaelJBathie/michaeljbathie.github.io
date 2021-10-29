@@ -4,8 +4,6 @@
 
 ## Education
 
-<hr />
-
 <h3 style="display: inline;">University of Manitoba</h3>
 <div style="float: right;">Sept 2017 – Apr 2022 (est.)</div>
 
@@ -18,15 +16,11 @@
 
 ## Skills
 
-<hr />
-
 Languages: **Python**, **JavaScript**, TypeScript, Java, Kotlin, Ruby, C, C++
 
 Technologies: **React.js**, **Android Studio**, MongoDB, Node, Git, Docker
 
 ## Projects
-
-<hr />
 
 <h3 style="display: inline;">SyncStream</h3>  
 <div style="float: right;">Jan 2021 – Apr 2021</div>	
@@ -67,8 +61,6 @@ Joint Configuration Algorithm – Processing
 • Compare and contrast complexity and efficiency with other real world methods
 
 ## Work Experience
-
-<hr />
 
 <div>
 <h3 style="display: inline;">McDonald’s</h3>
