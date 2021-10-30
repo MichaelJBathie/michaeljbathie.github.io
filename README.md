@@ -122,7 +122,7 @@ Here we're moving all our code onto github so others can see and github can begi
 
 <br>
 
-4. Time to actually move and save those change onto GitHub.Now to push our changes `git push -u origin BRANCH`. I personally name the BRANCH 'master'
+4. Time to actually move and save those change onto GitHub.
     ```sh
         $ git push -u origin BRANCH
     ```
