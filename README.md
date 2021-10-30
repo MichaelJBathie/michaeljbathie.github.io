@@ -168,6 +168,8 @@ Now we'll be focusing on what's on the website and some things you can change. F
 
 </details>
 
+<br>
+
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Jekyll tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
