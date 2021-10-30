@@ -23,8 +23,6 @@ Final check! You should be able to type `ruby -v`, `gem -v`, `gcc -v`, `g++ -v`,
 
 ## Instructions
 
-<br>
-
 ### Create GitHub Repository 
 
 This will essentially be a container to hold our code and keep track of its versions
@@ -36,8 +34,6 @@ This will essentially be a container to hold our code and keep track of its vers
 3. You now have the repository that will hold your website
 
 </details>
-
-<br>
 
 ### Setting up the site
 
@@ -94,8 +90,6 @@ Here we'll execute all the commands necessary to get the base site code in our l
 
 </details>
 
-<br>
-
 ### Getting our site on github
 
 Here we're moving all our code onto github so others can see and github can begin hosting our new site!
@@ -136,8 +130,6 @@ Here we're moving all our code onto github so others can see and github can begi
 
 </details>
 
-<br>
-
 ### Testing the site
 
 Let's see if our site is being hosted and rendered correctly
@@ -149,8 +141,6 @@ Let's see if our site is being hosted and rendered correctly
 ![Check website tutorial](./gifs/check_site.gif)
 
 </details>
-
-<br>
 
 ### Configuring the website
 
@@ -176,10 +166,7 @@ Now we'll be focusing on what's on the website and some things you can change. F
 4. Your website should now properly display your resume. Check back at the link in Settings>Pages to see!
     - Sometimes it may take a bit to update, if nothing it happening try to give it ~5 minutes
 
-
 </details>
-
-<br>
 
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
