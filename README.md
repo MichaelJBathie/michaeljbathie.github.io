@@ -49,7 +49,7 @@ Here we'll execute all the commands necessary to get the base site code in our l
 
 <br>
 
-2. Initialized your repository (which you shouldn't have if you've been following this exactly) type `git init REPOSITORY-NAME`. Now `cd` into that folder
+2. Initialized your repository
     ```sh
         $ git init REPOSITORY-NAME
     ```
