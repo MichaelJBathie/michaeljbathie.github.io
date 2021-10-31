@@ -16,7 +16,7 @@
 
 ## Skills
 
-Languages: **Python**, **JavaScript**, TypeScript, Java, Kotlin, Ruby, C, C++
+Languages: **Python**, **JavaScript**, TypeScript, Java, Ruby, C, C++
 
 Technologies: **React.js**, **Android Studio**, MongoDB, Node, Git, Docker
 
@@ -27,18 +27,20 @@ Technologies: **React.js**, **Android Studio**, MongoDB, Node, Git, Docker
 
 Full Stack Development – React.js, NodeJS, MongoDB, Express.js					     
 
-• Built UI components in React.js for login/register and landing page
+• Built UI components in React.js for landing page, profile, and map
 
-• Connected front-end with various APIs (Google maps, Spotify)
+• Connected front-end with Google Maps and Spotify API
 
-• Login authentication and API routing to back-end
+• Proper login authentication
+
+• API routing from front-end to back-end
 
 <h3 style="display: inline;">Steam Data Mining</h3>  
 <div style="float: right;">Oct 2021 – TBD</div>
 
 Frequent Pattern Mining – Python							     
 
-• Mine player data to discover meaningful relationships
+• Experience with common mining algorithms such as apiori
 
 • Integration with forceatlas2 for easily readable statistics
 
@@ -50,6 +52,8 @@ Frequent Pattern Mining – Python
 Software Developer Contractor – React.js			     
 
 • Develop easily readable portfolio to increase customer flow
+
+• Highly optimized static site for fast response times
 
 <h3 style="display: inline;">FABRIK Inverse Kinematics</h3>  
 <div style="float: right;">Mar 2021 – Apr 2021</div>
