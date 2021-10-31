@@ -1,4 +1,4 @@
-# Want to host your own static website?
+# Want to host your own resume?
 
 ## What's the purpose of this README?
 Exactly what the title says. I've attempted to host a few websites before and the learning curve at first is pretty steep. So, my entire goal will be to help anyone who's a little lost in the process. Going from beginning to end I'll try to explain the process step by step and I'll include some pointers from Andrew Etter's book Modern Technical Writing.
