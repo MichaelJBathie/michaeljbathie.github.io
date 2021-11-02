@@ -20,7 +20,7 @@ We can justify these choices using the knowledge of Etter's book. First of all, 
     - This will install Ruby's package manager 'gem' for you. Open a command terminal and type: ```gem install bundler```
 - GCC compiler --> [Follow this video tutorial](https://www.youtube.com/watch?v=sXW2VLrQ3Bs)
 - Chocolatey package manager --> [Follow this video tutorial](https://www.youtube.com/watch?v=-5WLKu_J_AE)
-    - Now use the command terminal against and type: ```choco install make```
+    - Now use the command terminal again and type: ```choco install make```
 - Git Bash --> [Click me to download](https://git-scm.com/download/win)
 
 Final check! You should be able to type `ruby -v`, `gem -v`, `gcc -v`, `g++ -v`, and `make -v` without any errors in the command terminal. They should all return version numbers
