@@ -172,6 +172,26 @@ Now we'll be focusing on what's on the website and some things you can change. F
 
 </details>
 
+### Themeing the site
+
+I'll show you how to add a simple theme
+
+<details><summary><b>Show Instructions</b></summary>
+    
+1. Go to your GitHub repository and navigate to the location where you found your site link before
+    - Settings>Pages
+    
+<br>
+    
+2. Click the "Change Theme" button
+    
+<br>
+    
+3. Select one of the themes at the top of the page and click the "Select Theme" button
+    - You may run into a problem where your website just turns white, see FAQs for more information
+    
+</details>
+
 <br>
 
 ## More Resources
