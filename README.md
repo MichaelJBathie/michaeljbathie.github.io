@@ -206,7 +206,7 @@ I'll show you how to add a simple theme
 <br>
 
 ## Authors and Acknowledgments
-I, Michael Bathie is the one who wrote this documentation. Special thanks to my group members Faith De Leon, Koye Fatoki, Tuan Le, and Andy Tan for help with the peer editing process. And thanks to the authors of github-pages' [slate theme](https://github.com/pages-themes/slate).
+I am the one who wrote this documention (Michael Bathie). Special thanks to my group members Faith De Leon, Koye Fatoki, Tuan Le, and Andy Tan for help with the peer editing process. Thanks to the authors of github-pages' [slate theme](https://github.com/pages-themes/slate). And of course thanks to Andrew Etter for providing the knowledge of the great importance of these steps
 
 <br>
 
